@@ -1,0 +1,2 @@
+protein: bank,MAOB
+ligand_smiles: dopamine
