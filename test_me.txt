@@ -1,2 +1,6 @@
-protein: bank,MAOB
+protein: bank,SULT1A3
 ligand_smiles: dopamine
+contact_residues: 105, 107
+max_distance: 6.0
+template_type: pdb
+template_file: 2A3R_sult1a3.pdb
