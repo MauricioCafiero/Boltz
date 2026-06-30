@@ -1,2 +1,11 @@
 protein: RLDIFSEYGKEWGKGGSGRGGDIL
 ligand_smiles: CC(C)(C)C1=CC=C(C=C1)C(=O)CC(=O)C2=CC=C(C=C2)OC
+
+close_residues: 105, 107
+res_distance: 10.0
+
+template_type: pdb
+template_file: 2A3R_sult1a3.pdb
+
+template_type: url
+template_pbdid: 2A3R
